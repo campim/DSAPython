@@ -71,7 +71,9 @@ if __name__ == "__main__":
     create_list(top_limit, quantity_items)
 
     print("before the bubble sort optimized : ", my_list)
+    print("  ")
     bubble_sort()
     print("after the bubble soft optimized  : ", my_list)
+    print("  ")
     print("iterations of the algorithm : ", iterations)
-
+    print("  ")
