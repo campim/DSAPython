@@ -4,10 +4,8 @@ Data Structures and Algorithms - python - Daniel G. Campos (2022)
 **1. algorithm_bubble_simple.py :** simple bubble sort algorithm in python with an array of random generated numbers as list.  
 **2. algorithm_bubble_optimized.py:** bubble sort optimized version of the same algorithm.  
 **3. insertion_sort.py :** insertion sort algorithm also using random generated numbers.  
-**4. selection_sort.py :** Selection sort algorithm also using random generated numbers. Now improved with ascending or 
-descending order.
-
-
+**4. selection_sort.py :** Selection sort algorithm also using random generated numbers. Now improved with ascending or descending order.
+**5. shell_sort.py :** Shell short sorting algorithm.
 
 LICENSING
 
