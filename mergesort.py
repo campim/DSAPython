@@ -84,10 +84,10 @@ if __name__ == "__main__":
 
     create_list(top_limit, quantity_items)
 
-    print("before the merge sort optimized : ", my_list)
+    print("before the merge sort : ", my_list)
     print("  ")
     mergesort(my_list)
-    print("after the merge sort optimized  : ", my_list)
+    print("after the merge sort  : ", my_list)
     print("  ")
     print("iterations of the algorithm : ", iterations)
     print("  ")

@@ -70,7 +70,7 @@ if __name__ == "__main__":
     print("before the selection sort : ", my_list)
     print("  ")
     selection_sort(which_order)
-    print("after the selection soft  : ", my_list)
+    print("after the selection sort  : ", my_list)
     print("  ")
     print("iterations of the algorithm : ", iterations)
     print("  ")

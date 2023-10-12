@@ -1,5 +1,5 @@
-# bubble sort simple - python version
-# Author Daniel G. Campos (2022)
+# shell_sort  - python version
+# Author Daniel G. Campos (2023)
 
 # LICENSING
 # This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public
@@ -14,10 +14,12 @@ import random
 my_list = []
 iterations = 0
 
+
 # create random list
 def create_list(top, quantity):
     global my_list
     my_list = [random.randrange(1, top, 1) for _ in range(quantity)]
+
 
 def shell_sort():
     global iterations
@@ -35,8 +37,9 @@ def shell_sort():
             my_list[j] = temp
         interval //= 2
 
+
 if __name__ == "__main__":
-    print("*** classic shell sort ordering algoritm version  - written in Python *** ")
+    print("*** classic shell sort ordering algorithm version  - written in Python *** ")
 
     top_limit = 0
     while top_limit == 0 or top_limit > 50:
@@ -55,10 +58,10 @@ if __name__ == "__main__":
 
     create_list(top_limit, quantity_items)
 
-    print("before the shell sort optimized : ", my_list)
+    print("before the shell sort : ", my_list)
     print("  ")
     shell_sort()
-    print("after the shell sort optimized  : ", my_list)
+    print("after the shell sort  : ", my_list)
     print("  ")
     print("iterations of the algorithm : ", iterations)
     print("  ")
