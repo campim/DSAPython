@@ -11,6 +11,8 @@ Data Structures and Algorithms - python - Daniel G. Campos (2022)
 
 **5. shell_sort.py :** Shell short sorting algorithm.
 
+**6. mergesort.py :** Merge short sorting algorithm.
+
 LICENSING
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public
