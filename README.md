@@ -13,6 +13,8 @@ Data Structures and Algorithms - python - Daniel G. Campos (2022)
 
 **6. merge_sort.py :** Merge sort sorting algorithm.
 
+**7. counting_sort.py :** Counting sort sorting algorithm - cumulative counts of number of occurrences of each unique element in an auxiliary array  -
+
 LICENSING
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public
