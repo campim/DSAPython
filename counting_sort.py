@@ -1,4 +1,4 @@
-# counting sort - python version
+# counting sort - python version -
 # Author Daniel G. Campos (2023)
 
 # LICENSING
