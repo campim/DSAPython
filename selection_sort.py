@@ -67,10 +67,10 @@ if __name__ == "__main__":
 
     create_list(top_limit, quantity_items)
 
-    print("before the selection sort : ", my_list)
+    print("before the selection  sort : ", my_list)
     print("  ")
     selection_sort(which_order)
-    print("after the selection sort  : ", my_list)
+    print("after the selection  sort  : ", my_list)
     print("  ")
     print("iterations of the algorithm : ", iterations)
     print("  ")

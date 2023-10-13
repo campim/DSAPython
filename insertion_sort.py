@@ -36,7 +36,7 @@ def insertion_sort():
 
 
 if __name__ == "__main__":
-    print("*** classic bubble sort simple version  - written in Python *** ")
+    print("*** classic insertion sort simple version  - written in Python *** ")
 
     top_limit = 0
     while top_limit == 0 or top_limit > 50:

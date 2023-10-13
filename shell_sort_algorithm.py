@@ -1,4 +1,4 @@
-# shell_sort  - python version
+# shell_sort algorithm - python version
 # Author Daniel G. Campos (2023)
 
 # LICENSING
@@ -58,10 +58,10 @@ if __name__ == "__main__":
 
     create_list(top_limit, quantity_items)
 
-    print("before the shell sort : ", my_list)
+    print("before the shell sort  : ", my_list)
     print("  ")
     shell_sort()
-    print("after the shell sort  : ", my_list)
+    print("after the shell sort   : ", my_list)
     print("  ")
     print("iterations of the algorithm : ", iterations)
     print("  ")
