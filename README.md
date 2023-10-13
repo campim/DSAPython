@@ -9,9 +9,9 @@ Data Structures and Algorithms - python - Daniel G. Campos (2022)
 
 **4. selection_sort.py :** Selection sort algorithm also using random generated numbers. Now improved with ascending or descending order.
 
-**5. shell_sort.py :** Shell short sorting algorithm.
+**5. shell_sort.py :** Shell sort sorting algorithm.
 
-**6. mergesort.py :** Merge short sorting algorithm.
+**6. merge_sort.py :** Merge sort sorting algorithm.
 
 LICENSING
 
