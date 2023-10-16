@@ -15,6 +15,9 @@ Data Structures and Algorithms - python - Daniel G. Campos (2022)
 
 **7. counting_sort.py :** Counting sort sorting algorithm - cumulative counts of number of occurrences of each unique element in an auxiliary array -.
 
+**8. quick_sort.py :** Quick sort algorithm is a divide and conquer approach, we divide the main array into sub arrays, using the rightmost element of
+the array as pivot element. using recursion.
+
 LICENSING
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public

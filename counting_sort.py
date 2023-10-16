@@ -29,7 +29,7 @@ def counting_sort(arr1):
     # Initialize count array, this is for the cumulative array
     count = [0] * len(arr1)
 
-    # Store the count of each elements in count array
+    # Store the count of each element in count array
     for i in range(0, len(arr1)):
         iterations += 1
         count[arr1[i]] += 1
