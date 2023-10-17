@@ -18,6 +18,11 @@ Data Structures and Algorithms - python - Daniel G. Campos (2022)
 **8. quick_sort.py :** Quick sort algorithm is a divide and conquer approach, we divide the main array into sub arrays, using the rightmost element of
 the array as pivot element. using recursion.
 
+**9. radix_sort.py :** Radix sort algorithm, sorts by first grouping individual digits of the same place value, then sort according to their increasing -
+decreasing order. Uses counting sort as intermediate sorting algorithm.
+
+
+
 LICENSING
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public
