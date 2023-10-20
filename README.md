@@ -21,6 +21,7 @@ the array as pivot element. using recursion.
 **9. radix_sort.py :** Radix sort algorithm, sorts by first grouping individual digits of the same place value, then sort according to their increasing -
 decreasing order. Uses counting sort as intermediate sorting algorithm.
 
+**10. bucket_sort.py :** Bucket sort algorithm, using insertion sort as a secondary algorithm for sorting.
 
 
 LICENSING
