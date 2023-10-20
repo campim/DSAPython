@@ -23,6 +23,8 @@ decreasing order. Uses counting sort as intermediate sorting algorithm.
 
 **10. bucket_sort.py :** Bucket sort algorithm, using insertion sort as a secondary algorithm for sorting.
 
+**11. heap_sort.py :** Heap sort, using complete binary tree data structure, recursive.
+
 
 LICENSING
 
