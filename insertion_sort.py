@@ -28,7 +28,6 @@ def insertion_sort():
         j = step - 1
 
         while j >= 0 and key < my_list[j]:
-            iterations += 1
             my_list[j + 1] = my_list[j]
             j = j - 1
 
