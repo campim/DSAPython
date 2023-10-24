@@ -25,6 +25,7 @@ decreasing order. Uses counting sort as intermediate sorting algorithm.
 
 **11. heap_sort.py :** Heap sort, using complete binary tree data structure, recursive.
 
+**12. linear_search.py :** Very simple linear search of integers with random generated numbers.
 
 LICENSING
 
