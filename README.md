@@ -29,6 +29,8 @@ decreasing order. Uses counting sort as intermediate sorting algorithm.
 
 **13. binary_search.py :** Simple binary search example, with quick sort as ordering algorithm and random generated numbers.
 
+**14. simple_stack.py :** Very simple example of a stack of integer numbers in python, showing classes.
+
 LICENSING
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public
